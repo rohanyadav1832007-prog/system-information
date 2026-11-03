@@ -1,1 +1,1 @@
-# system-information
+My System Information Pipeline project.
